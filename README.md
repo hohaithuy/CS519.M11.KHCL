@@ -12,7 +12,7 @@ Nhóm nghiên cứu khoa học lớp CS519.M11.KHCL - UIT
 | 1	|[Hồ Hải Thủy](https://www.facebook.com/suzu2k1)	| 19522323	| ![](https://img.shields.io/badge/-Leader-yellow) |[taolaobd](https://github.com/taolaobd)|
 | 2	|[Nguyễn Việt Thư](https://www.facebook.com/Vietthu1303)	| 19522309	| ![](https://img.shields.io/badge/-Member-yellow)  |[nguyenvietthu](https://github.com/nguyenvietthu)|
 | 3	|[Hồ Thịnh](https://www.facebook.com/bou.noppera.33)	  | 19522274	| ![](https://img.shields.io/badge/-Member-yellow)  |[
-bou24-1](https://github.com/bou24-1)|
+bou241](https://github.com/bou24-1)|
 ---
 
 
