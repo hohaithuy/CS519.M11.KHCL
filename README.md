@@ -4,9 +4,8 @@ Nhóm nghiên cứu khoa học lớp CS519.M11.KHCL - UIT
 ![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/graphs/contributors)
 ## Lecturer:
 - **Mr. Le Dinh Duy**
----
 
-### Team member:
+## Team member:
 |No.| Full name         |Student ID       |Team role      |Github|
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1	|[Hồ Hải Thủy](https://www.facebook.com/suzu2k1)	| 19522323	| ![](https://img.shields.io/badge/-Leader-yellow) |[taolaobd](https://github.com/taolaobd)|
