@@ -1,7 +1,7 @@
 <h1 align="center"> Phương pháp 5-SENTENCE PARAGRAPH </h1> <br>
 
 ## Định nghĩa
-- Five sentence paragraph: là loại đoạn văn đầu tiên được dạy cho học sinh tiểu học. Học cách viết loại đoạn văn cơ bản này là nền tảng cho tất cả các bài viết trong tương lai. Một đoạn văn năm câu bao gồm một câu ý chính, ba câu giải thích ý chính với lý do, chi tiết hoặc sự kiện và một câu kết luận.
+- Five sentence paragraph: là loại đoạn văn đầu và cơ bản nhất. Học cách viết loại đoạn văn này là nền tảng cho tất cả các bài viết trong tương lai. Một đoạn văn năm câu bao gồm một câu ý chính, ba câu giải thích ý chính với lý do, chi tiết hoặc sự kiện và một câu kết luận.
 - Sử dụng "Five sentence paragraph" có thể giúp người viết sắp xếp suy nghĩ của mình, viết rõ ràng và trình bày thông tin theo cách mà người đọc dễ hiểu.
 
 
