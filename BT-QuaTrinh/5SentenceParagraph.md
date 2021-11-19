@@ -29,3 +29,14 @@
 - Câu cuối cùng trong đoạn dành để tóm tắt ý tưởng hiện tại của chủ đề đang đề cập ở trên và dẫn về lại câu chủ để.
 - Trong câu này có thể dùng để dẫn tiếp đến đoạn tiếp theo (nếu có)
 
+# Ví dụ: 
+Hôm nay nhóm mình sẽ viết về đề tài Tự học (self-study skills) và những lợi ích xung quanh nó.
+
+ Đầu tiên, chúng ta cần phải hiểu được Tự học là gì?( What?) Tự học là tự mình tìm hiểu nghiên cứu, thu nhặt các kiến thức tự luyện tập để có kỹ năng mà không cần sự hướng dẫn, nhắc nhở hay ép buộc của người khác. Bản chất của tự học là chủ động tích cực, độc lập tìm hiểu, lĩnh hội tri thức và hình thành kĩ năng cho bản thân. 
+
+Thứ hai chúng ta cùng nhau tìm hiểu về lợi ích của tự học? (Why?) Tự học giúp ta lĩnh hội tri thức một cách chủ động: học tập nghiên cứu, quản lý thời gian cá nhân, đi sâu vào khai thác những vấn đề mà bản thân có khả năng hoặc cảm thấy tâm đắc. Tự học giúp ta khám phá thêm những tri thức mới đồng thời làm phong phú thêm những kiến thức đã có, làm tăng vốn sống và khả năng hiểu biết. Từ đó phát triển khả năng độc lập trong tư duy và hành động
+
+Thứ ba, là về làm thế nào để tự học?( How? ). Các bước cơ bản: 1. Lập kế hoạch, xác định mục tiêu; 2. Chọn lọc thông tin, tài liệu thích hợp; 3. Học đi đôi với hành; 4.Tìm các đánh giá, phản hồi.
+
+“ Trên con đường thành công không có dấu chân của kẻ lười biếng”. Kiên trì và quyết tâm tự học, 1 ngày không xa thành công sẽ mỉm cười với bạn.
+
